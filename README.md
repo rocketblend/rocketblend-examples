@@ -1,6 +1,6 @@
 # RocketBlend Examples
 
-This repository showcases various Blender projects that utilize RocketBlend, demonstrating how it can enhance your workflow.
+A showcase of various [Blender](https://www.blender.org/) projects that utilise [RocketBlend](https://github.com/rocketblend/rocketblend), demonstrating how it can enhance your workflow.
 
 ## See Also
 
