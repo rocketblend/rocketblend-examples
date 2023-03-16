@@ -6,3 +6,6 @@
 
 # blender files
 *.blend1
+
+# logs
+*.log
